@@ -1,4 +1,4 @@
-// Factory patern
+// Factory pattern
 
 class Cat {
     constructor(weight, name) {
