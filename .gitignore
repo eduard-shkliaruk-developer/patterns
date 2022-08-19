@@ -1,3 +1,5 @@
 # List dependencies
 
 .env
+
+file3.txt
